@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @queen-star24
-- 👀 I’m interested in programming 
+- 👀 I’m interested in something cool and great
 - 🌱 I’m currently learning C++/java script 
 - 💞️ I’m looking to collaborate on Btrust
-- 📫 How to reach me out through my github account 
+- 📫 How to reach me out through my github 
 - 😄 Pronouns: making impact 
 - ⚡ Fun fact: coding is great 
 
